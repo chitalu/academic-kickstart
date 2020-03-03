@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Floyd M. Chitalu
 
 # Username (this should match the folder name)
 authors:
@@ -18,12 +18,12 @@ organizations:
   url: "https://www.ed.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include physics based animation and parallel computing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physics-based animation
+- Collision Detection
+- GPU Computing
 
 education:
   courses:
